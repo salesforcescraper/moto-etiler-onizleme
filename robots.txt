@@ -1,0 +1,5 @@
+# Bu bir ÖNİZLEME / DEMO dağıtımıdır — arama motorlarına kapalıdır.
+# Yayına alırken bu dosyayı gerçek site için güncelleyin ve
+# sayfalardaki noindex meta etiketlerini kaldırın.
+User-agent: *
+Disallow: /

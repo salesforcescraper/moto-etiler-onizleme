@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python tools/ig-photo.py \"https://www.instagram.com/p/CzZJN8Mrf3R/\" models/proje-gts300-gece-yarisi --ratio 4:3 --width 640)",
+      "PowerShell(Start-Process \"c:\\\\Users\\\\M\\\\MotoEtiler\\\\modifiye.html\")",
+      "PowerShell(\"opened both\")"
+    ]
+  }
+}
